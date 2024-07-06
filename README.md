@@ -39,3 +39,8 @@
 - pycountry: Ülke isimleri, kodları ve diğer ülke bilgilerini sağlayan bir kütüphanedir. Ülke bilgilerini almak ve düzenlemek için kullanılır.
 
   
+## Katkıda Bulunma
+Katkıda bulunmak isterseniz lütfen bir pull request açın veya bir issue oluşturun.
+
+## Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır.
