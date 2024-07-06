@@ -43,4 +43,4 @@
 Katkıda bulunmak isterseniz lütfen bir pull request açın veya bir issue oluşturun.
 
 ## Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
+Bu proje Licanse dosyası ile lisans ile lisanslanmıştır.
